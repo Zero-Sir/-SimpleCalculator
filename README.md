@@ -4,7 +4,7 @@
 ## 效果图
 | 计算主界面 | 历史计算界面 |
 |-------------|-------------|
-| ![](./preview/preview1.png) | ![](./preview/preview1.png) |
+| ![](./preview/preview1.png) | ![](./preview/preview2.png) |
 
 ## 相关
  1.微信小程序页面布局<br>
