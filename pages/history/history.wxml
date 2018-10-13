@@ -1,0 +1,11 @@
+<!--pages/history/history.wxml-->
+<page>
+  <view class='his-container'>
+    <view class="title">记录</view>
+    <block wx:for="{{logs}}" wx:for-item="log" wx:key="{{index}}">
+      <view class="item">   
+        {{index+1}}：{{log}}
+      </view>
+    </block>  
+  </view>
+</page>
