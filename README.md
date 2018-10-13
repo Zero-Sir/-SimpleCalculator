@@ -1,8 +1,8 @@
 # 微信小程序-SimpleCalculator
 微信小程序版简易计算器，可用于微信小程序入门练手
 
-    ![效果图1](wxapp-SimpleCalculator/preview/效果图1.png)
-    ![效果图2](wxapp-SimpleCalculator/preview/效果图2.png)
+    ![效果图1](https://github.com/Zero-Sir/wxapp-SimpleCalculator/blob/master/preview/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
+    ![效果图2](https://github.com/Zero-Sir/wxapp-SimpleCalculator/blob/master/preview/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
         
 
 ## 相关
