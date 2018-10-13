@@ -2,8 +2,8 @@
 微信小程序版简易计算器，可用于微信小程序入门练手
 
 ## 效果图
-<img src="https://github.com/Zero-Sir/wxapp-SimpleCalculator/blob/master/preview/preview1.png" width=50%  alt="效果图1">
-<img src="https://github.com/Zero-Sir/wxapp-SimpleCalculator/blob/master/preview/preview1.png" width=50%  alt="效果图1">
+<img src="https://github.com/Zero-Sir/wxapp-SimpleCalculator/blob/master/preview/preview1.png" width=40%  alt="效果图1">
+<img src="https://github.com/Zero-Sir/wxapp-SimpleCalculator/blob/master/preview/preview1.png" width=40%  alt="效果图1">
 
 ## 相关
  1.微信小程序页面布局<br>
