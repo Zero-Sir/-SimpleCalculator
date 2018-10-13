@@ -1,6 +1,9 @@
 # 微信小程序-SimpleCalculator
 微信小程序版简易计算器，可用于微信小程序入门练手
 
+    wxapp-SimpleCalculator/preview/效果图1.png
+    wxapp-SimpleCalculator/preview/效果图2.png
+        
 
 ## 相关
  1.微信小程序页面布局<br>
