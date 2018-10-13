@@ -2,8 +2,6 @@
 微信小程序版简易计算器，可用于微信小程序入门练手
 
 ## 效果图
-![效果图1](./preview/preview1.png)
-![效果图2](./preview/preview1.png)
 | 计算界面 | 历史界面 |
 |-------------|-------------|
 | ![](./preview/preview1.png) | ![](./preview/preview1.png) |
